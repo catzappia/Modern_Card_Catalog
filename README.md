@@ -14,7 +14,7 @@ A book search using Google Books API.
 - [Authors](#authors)
 
 ## Usage
-[Render Site](https://www.modern-card-catalog.onrender.com)
+[Render Site](https://modern-card-catalog.onrender.com/)
 
 ## Credits
 Google Books API belongs to Google.
