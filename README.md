@@ -14,6 +14,7 @@ A book search using Google Books API.
 - [Authors](#authors)
 
 ## Usage
+![The Render log showing the error](render-log.png)
 [Render Site](https://modern-card-catalog.onrender.com/)
 
 ## Credits
